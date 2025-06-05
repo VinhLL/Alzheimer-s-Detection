@@ -12,3 +12,6 @@ DTI:
     p4: Xử lý ảnh
     p5: Tạo ảnh 3D tăng cường theo dữ liệu train_augmented.csv
     p6: Gộp file train.csv và train_augmented.csv => train.csv
+
+Raw DTI:
+    z1.py
